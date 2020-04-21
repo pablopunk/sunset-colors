@@ -11,7 +11,7 @@ module.exports = {
   cyan: "#FCECCB",
   light: {
     black: "#4A2F48",
-    background: "#FFFFFF",
+    background: "#FCECCB",
     white: "#F1F1F1",
     foreground: "#1f1f28",
     red: "#CD5B6F",
