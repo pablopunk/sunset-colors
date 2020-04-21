@@ -1,0 +1,27 @@
+{
+  "name": "sunset-colors",
+  "version": "1.0.0",
+  "description": "sunset colors palette",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pablopunk/sunset-colors.git"
+  },
+  "keywords": [
+    "sunset",
+    "colors",
+    "palette",
+    "theme",
+    "syntax",
+    "hyper",
+    "vim",
+    "pale"
+  ],
+  "author": "Pablo Varela (https://pablo.pink)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pablopunk/sunset-colors/issues"
+  },
+  "homepage": "https://github.com/pablopunk/sunset-colors#readme"
+}
